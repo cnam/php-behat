@@ -1,0 +1,6 @@
+{
+  "require": {
+      "behat/behat": "~3.0",
+      "behat/web-api-extension": "~1.0@dev"
+  }
+}
